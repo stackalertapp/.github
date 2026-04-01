@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://aws-finops-small-teams.pages.dev">Website</a> &bull;
   <a href="https://github.com/stackalertapp/stackalert-lambda">Lambda</a> &bull;
   <a href="https://github.com/stackalertapp/stackalert-terraform">Terraform</a> &bull;
   <a href="https://github.com/stackalertapp/stackalert-cdk">CDK</a> &bull;
